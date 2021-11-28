@@ -5,7 +5,7 @@ addEventListener('click', traerDatosNuevos());
 addEventListener('click', traerDatosFavoritos());
 
 function traerDatosNuevos() {
-  console.log('dentro de la función')
+  // console.log('dentro de la función')
   const xhttp = new XMLHttpRequest();
 
   xhttp.open('GET', 'albumnes.json', true);
@@ -17,12 +17,12 @@ function traerDatosNuevos() {
       let datos = JSON.parse(this.responseText);
       // console.log(datos.genero);
       const items = datos.nuevo;
-      console.log(items);
+      // console.log(items);
       let res = document.querySelector('#res');
       res.innerHTML = '';
 
       for (let item of items) {
-        console.log(item);
+        // console.log(item);
         res.innerHTML += `
               <div class="item-gallery">
       <img src="${item.src}">

@@ -9,22 +9,22 @@ workbox.precaching.precacheAndRoute([
   // './imagenes/firma.png',
   // './imagenes/logo.png',
   // './imagenes/portada.jpg',
-  '/api.js',
-  '/albumnes.json'
+  'api.js',
+  'albumnes.json'
 ]);
 
-workbox.routing.setCatchHandler(async context =>{
-  console.log(context);
-  console.log(context.request);
+// workbox.routing.setCatchHandler(async context =>{
+//   console.log(context);
+//   console.log(context.request);
 
-  if(context.request.destination === 'document'){
-    return workbox.precaching.matchPrecache('offline.html');
-  } else if (context.request.destination === 'image'){
-    return workbox.precaching.matchPrecache('imagenes/offline.jpg')
-  }
+//   if(context.request.destination === 'document'){
+//     return workbox.precaching.matchPrecache('offline.html');
+//   } else if (context.request.destination === 'image'){
+//     return workbox.precaching.matchPrecache('imagenes/offline.jpg')
+//   }
   
-  return Response.error();
-})
+//   return Response.error();
+// })
 
 
 workbox.routing.registerRoute(
