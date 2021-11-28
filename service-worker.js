@@ -2,10 +2,10 @@ console.log('Hello');
 importScripts('http://storage.googleapis.com/workbox-cdn/releases/5.0.0/workbox-sw.js');
 
 workbox.precaching.precacheAndRoute([
-  '/index.html',
-  '/albumnes.html',
-  '/favoritos.html',
-  '/albumnes.css',
+  'index.html',
+  'albumnes.html',
+  'favoritos.html',
+  'albumnes.css',
   // './imagenes/firma.png',
   // './imagenes/logo.png',
   // './imagenes/portada.jpg',
