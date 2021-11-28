@@ -1,0 +1,152 @@
+{
+    "nuevo": [
+        {
+            "titulo": "When You See Yourself",
+            "src": "./imagenes/When-You-See-Yourself.jpg",
+            "fecha": 2021,
+            "banda": "Kings Of Leon",
+            "descripcion": "When You See Yourself es el octavo álbum de estudio de la banda estadounidense Kings of Leon. Fue lanzado el 5 de marzo de 2021 por RCA Records.​ Fue precedido por los sencillos The Bandit y 100,000 People, ambos lanzados el 7 de enero de 2021.",
+            "canciones": []
+        },
+        {
+            "titulo": "Medicine at Midnight",
+            "src": "./imagenes/Medicine-At-Midnight.jpg",
+            "fecha": 2021,
+            "banda": "Foo Fighters",
+            "descripcion": "Medicine at Midnight es el décimo álbum de estudio de la banda estadounidense Foo Fighters. El álbum estuvo originalmente programado para lanzarse en el 2020, sin embargo el álbum se retrasó hasta el 5 de febrero de 2021 donde fue publicado.",
+            "canciones": []
+        },
+        {
+            "titulo": "Chemtrails over the Country Club",
+            "src": "./imagenes/Chemtrails-Over.jpg",
+            "fecha": 2021,
+            "banda": "Lana Del Rey",
+            "descripcion": "Chemtrails over the Country Club —en español: Estelas químicas sobre el club de campo— es el séptimo álbum de estudio de la cantautora estadounidense Lana Del Rey. Fue lanzado el 19 de marzo de 2021 por Interscope Records y Polydor Records como continuación de su sexto álbum de estudio, Norman Fucking Rockwell!.​​​ ",
+            "canciones": []
+        }
+    ],
+    "genero": {
+        "rock": [
+            {
+                "titulo": "Direct Hits",
+                "src": "./imagenes/The-Killers-Direct-Hits-Vinyl.jpg",
+                "fecha": 2013,
+                "banda": "The Killers",
+                "descripcion": " Es un álbum de grandes éxitos de la banda estadounidense de rock The Killers lanzado el 11 de noviembre de 2013 a través de Island Records. ",
+                "canciones": [
+                    "asdasd",
+                    "asdasda",
+                    "asdasd"
+                ]
+            },
+            {
+                "titulo": "The Wall",
+                "src": "./imagenes/The-Wall.jfif",
+                "fecha": 1979,
+                "banda": "Pink Floyd",
+                "descripcion": "Es el undécimo álbum de estudio de la banda británica de rock progresivo Pink Floyd y el segundo doble, publicado en 1979.",
+                "canciones": []
+            },
+            {
+                "titulo": "London",
+                "src": "./imagenes/London.jpg",
+                "fecha": 1979,
+                "banda": "The Clash",
+                "descripcion": "El tercer álbum de estudio de la banda británica de punk The Clash, lanzado el 14 de diciembre de 1979, por CBS Records en el Reino Unido ",
+                "canciones": []
+            },
+            {
+                "titulo": "In the Court of the Crimson King",
+                "fecha": 1969,
+                "src": "./imagenes/In-The-Court.jpg",
+                "banda": "King Crimson",
+                "descripcion": "Es el álbum debut del grupo inglés King Crimson, producido y publicado en 1969, considerado uno de los primeros álbumes de rock progresivo.",
+                "canciones": []
+            }
+        ],
+        "rap": [
+            {
+                "titulo": "The Chronic",
+                "src": "./imagenes/The-Chronic.jpg",
+                "fecha": 1992,
+                "banda": "",
+                "descripcion": "Álbum debut como solista del rapero estadounidense, Dr. Dre, publicado el 15 de diciembre de 1992 a través de la discográfica Death Row Records y distribuido por Priority Records.",
+                "canciones": []
+            },
+            {
+                "titulo": "Doggystyle",
+                "src": "./imagenes/Doggystyle.jpg",
+                "fecha": 1993,
+                "banda": "Snoop Dogg",
+                "descripcion": "Álbum debut del rapero Snoop Doggy Dogg, lanzado el 23 de noviembre de 1993. Fue producido por Dr. Dre. El álbum fue un rotundo éxito en crítica y ventas, se considera por muchos el mejor álbum de la discografía del rapero. ",
+                "canciones": []
+            },
+            {
+                "titulo": "Life After Death",
+                "src": "./imagenes/Life-After-Death.jpg",
+                "fecha": 1997,
+                "banda": "The Notorious B.I.G.",
+                "descripcion": "Life After Death es el segundo álbum del rapero The Notorious B.I.G., lanzado el 25 de marzo de 1997.",
+                "canciones": []
+            },
+            {
+                "titulo": "Me Against the World",
+                "src": "./imagenes/Me-Against-The-World.jpg",
+                "fecha": 1993,
+                "banda": "Tupac",
+                "descripcion": "Me Against the World es el tercer álbum del rapero 2Pac, lanzado el 14 de marzo de 1995 por Interscope Records. El álbum fue grabado en cuestión de semanas antes de que el rapero fuera a prisión por cargos por abuso sexual en 1993.",
+                "canciones": []
+            }
+        ]
+    },
+    "favoritos": [
+        {
+            "titulo": "Me Against the World",
+            "src": "./imagenes/Me-Against-The-World.jpg",
+            "fecha": 1993,
+            "banda": "Tupac",
+            "descripcion": "Me Against the World es el tercer álbum del rapero 2Pac, lanzado el 14 de marzo de 1995 por Interscope Records. El álbum fue grabado en cuestión de semanas antes de que el rapero fuera a prisión por cargos por abuso sexual en 1993.",
+            "canciones": []
+        },
+        {
+            "titulo": "The Wall",
+            "src": "./imagenes/The-Wall.jfif",
+            "fecha": 1979,
+            "banda": "Pink Floyd",
+            "descripcion": "Es el undécimo álbum de estudio de la banda británica de rock progresivo Pink Floyd y el segundo doble, publicado en 1979.",
+            "canciones": []
+        },
+        {
+            "titulo": "London",
+            "src": "./imagenes/London.jpg",
+            "fecha": 1979,
+            "banda": "The Clash",
+            "descripcion": "El tercer álbum de estudio de la banda británica de punk The Clash, lanzado el 14 de diciembre de 1979, por CBS Records en el Reino Unido ",
+            "canciones": []
+        },
+        {
+            "titulo": "Doggystyle",
+            "src": "./imagenes/Doggystyle.jpg",
+            "fecha": 1993,
+            "banda": "Snoop Dogg",
+            "descripcion": "Álbum debut del rapero Snoop Doggy Dogg, lanzado el 23 de noviembre de 1993. Fue producido por Dr. Dre. El álbum fue un rotundo éxito en crítica y ventas, se considera por muchos el mejor álbum de la discografía del rapero. ",
+            "canciones": []
+        },
+        {
+            "titulo": "Life After Death",
+            "src": "./imagenes/Life-After-Death.jpg",
+            "fecha": 1997,
+            "banda": "The Notorious B.I.G.",
+            "descripcion": "Life After Death es el segundo álbum del rapero The Notorious B.I.G., lanzado el 25 de marzo de 1997.",
+            "canciones": []
+        },
+        {
+            "titulo": "Medicine at Midnight",
+            "src": "./imagenes/Medicine-At-Midnight.jpg",
+            "fecha": 2021,
+            "banda": "Foo Fighters",
+            "descripcion": "Medicine at Midnight es el décimo álbum de estudio de la banda estadounidense Foo Fighters. El álbum estuvo originalmente programado para lanzarse en el 2020, sin embargo el álbum se retrasó hasta el 5 de febrero de 2021 donde fue publicado.",
+            "canciones": []
+        }
+    ]
+}
